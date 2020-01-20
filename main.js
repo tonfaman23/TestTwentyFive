@@ -1,0 +1,1 @@
+console.log("Possessed by Heroic Spirit Galahad")
